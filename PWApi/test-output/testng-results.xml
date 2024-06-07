@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-05T15:34:51 IST" name="Default suite" finished-at="2024-06-05T15:34:55 IST" duration-ms="3886">
+    <groups>
+    </groups>
+    <test started-at="2024-06-05T15:34:51 IST" name="Default test" finished-at="2024-06-05T15:34:55 IST" duration-ms="3886">
+      <class name="APITEST.ApiGet">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:APITEST.ApiGet@1d119efb]" started-at="2024-06-05T15:34:51 IST" name="SetUp" finished-at="2024-06-05T15:34:53 IST" duration-ms="1690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="ForSpecipicUser()[pri:0, instance:APITEST.ApiGet@1d119efb]" started-at="2024-06-05T15:34:53 IST" name="ForSpecipicUser" finished-at="2024-06-05T15:34:54 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForSpecipicUser -->
+        <test-method signature="GetApi()[pri:0, instance:APITEST.ApiGet@1d119efb]" started-at="2024-06-05T15:34:54 IST" name="GetApi" finished-at="2024-06-05T15:34:55 IST" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetApi -->
+      </class> <!-- APITEST.ApiGet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
